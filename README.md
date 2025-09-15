@@ -24,6 +24,9 @@ Some guidance, planning, and code insights for this project were discussed with 
 **Ctrl + Click**
 <a href="https://chatgpt.com/share/68c7ecdf-9688-8012-ac79-6b34aef4190b" target="_blank">ChatGPT Discussion Link</a>
 
+## Video Link:
+<a href="https://drive.google.com/file/d/1jptcLiSth7Wf_pNVaU5zOEFbniGFNf99/view?usp=drive_link">Video Link</a>
+
 ## 🛠️ Installation & Setup
 
 Follow these steps to run the project locally:
