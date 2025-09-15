@@ -14,13 +14,14 @@ This project helps users quickly find books by title and view basic information.
 ---
 ## 🔗 Live Demo
 
-Check out the working application here:  
+Check out the working application here: 
+**Ctrl + Click**
 <a href="https://96y7nl-5173.csb.app/" target="_blank">Book-Finder Live Demo</a>
 
 ## 🤖 AI Assistance
 
 Some guidance, planning, and code insights for this project were discussed with ChatGPT:
-
+**Ctrl + Click**
 <a href="https://chatgpt.com/share/68c7ecdf-9688-8012-ac79-6b34aef4190b" target="_blank">ChatGPT Discussion Link</a>
 
 ## 🛠️ Installation & Setup
