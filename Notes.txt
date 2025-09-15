@@ -1,0 +1,41 @@
+📚 Book Finder Application - Project Notes
+1. Introduction
+The Book Finder Application is a React + Vite based project designed to help users search for books using the OpenLibrary API. The application is responsive, user-friendly, and demonstrates effective use of React components, hooks, and Tailwind CSS for styling.
+2. Features
+Key features of the application include:
+•	- Search books by title, author, subject, and year
+•	- Fetch data dynamically from OpenLibrary API
+•	- Advanced filters for refining search results
+•	- Pagination to navigate through multiple results
+•	- Book details displayed in modal view
+•	- Responsive UI built with TailwindCSS
+•	- Error handling and empty state management
+3. Technology Stack
+The following technologies are used:
+•	- React (Frontend framework)
+•	- Vite (Bundler for fast development)
+•	- Tailwind CSS (Styling)
+•	- OpenLibrary API (Data Source)
+•	- Lucide-react (Icons)
+•	- GitHub + CodeSandbox (Deployment & Hosting)
+4. Key Components
+•	- SearchForm.jsx: Handles search input and advanced filters
+•	- BookCard.jsx: Displays book information in a card layout
+•	- BookModal.jsx: Shows detailed book information in a modal
+•	- Pagination.jsx: Handles pagination for search results
+•	- ErrorMessage.jsx & EmptyState.jsx: Handle error and no-results UI
+•	- useBooks.js (custom hook): Handles fetching books and managing state
+5. Project Workflow
+1. User enters search query in SearchForm
+2. useBooks hook fetches data from OpenLibrary API
+3. Books are displayed in BookCard components
+4. User can open BookModal to see details
+5. Pagination helps in navigating results
+6. ErrorMessage/EmptyState shown when necessary
+6. Deployment
+The project is deployed using CodeSandbox and connected to GitHub repository.
+Live Demo: https://96y7nl-5173.csb.app/
+GitHub Repo: https://github.com/tejashs02/BookFinder
+7. AI Assistance
+The project development was supported with brainstorming and coding assistance from ChatGPT.
+ChatGPT Discussion Link: https://chatgpt.com/share/68c7ecdf-9688-8012-ac79-6b34aef4190b
